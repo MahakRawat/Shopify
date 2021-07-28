@@ -1,0 +1,14 @@
+export const user_info_success='user_info_success';
+export const user_info_failure=' user_info_failure';
+export const user_info_loading='user_info_loading';
+export const user_logout_loading='user_logout_loading';
+export const user_logout='user_logout';
+export const user_info_update_success='user_info_update_success';
+export const user_info_update_failure='user_info_update_failure';
+export const user_info_update_loading='user_info_update_loading';
+export const user_register_success='user_register';
+export const user_register_failure='user_register_failure';
+export const user_register_loading='user_register_loading';
+export const shippingdetails_failure='shippingdetails_failure';
+export const shippingdetails_success='shippingdetails_success';
+export const payment_method='payment_method';
